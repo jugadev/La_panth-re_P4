@@ -1039,6 +1039,9 @@ blockquote p{
     font-style: italic;
 }
 
+.row li{
+    padding: 5px;
+}
 @media (max-width: 400px) {
     .bloc {
         padding-left: 0;
