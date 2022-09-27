@@ -1040,9 +1040,20 @@ blockquote p{
     color: #595959;
 }
 
-a.social{
-    padding: 15px;
+span.fa.fa-twitter.icon-md{
+    padding: 10px;
 }
+span.fa.fa-facebook.icon-md{
+    padding: 10px;
+}
+span.fa.fa-dribbble.icon-md{
+    padding: 10px;
+}
+span.fa.fa-instagram.icon-md{
+    padding: 10px;
+}
+
+
 .row li{
     padding: 5px;
 }
