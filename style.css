@@ -1040,6 +1040,9 @@ blockquote p{
     color: #F3976C;
 }
 
+a.social{
+    padding: 10px;
+}
 .row li{
     padding: 5px;
 }
