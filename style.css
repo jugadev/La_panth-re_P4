@@ -1037,6 +1037,7 @@ blockquote p{
 .citation_auteur{
     font-size: 20px;
     font-style: italic;
+    color: #F3976C;
 }
 
 .row li{
