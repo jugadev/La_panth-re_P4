@@ -1057,6 +1057,10 @@ span.fa.fa-instagram.icon-md{
 .row li{
     padding: 5px;
 }
+
+img.img-responsive.portfolio-thumb{
+    width: 100%;
+}
 @media (max-width: 400px) {
     .bloc {
         padding-left: 0;
